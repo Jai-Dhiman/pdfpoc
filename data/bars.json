@@ -1,0 +1,39 @@
+{
+  "bars": [
+    {
+      "barNumber": 1,
+      "x": 120,
+      "y": 200,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "barNumber": 2,
+      "x": 120,
+      "y": 280,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "barNumber": 3,
+      "x": 120,
+      "y": 360,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "barNumber": 4,
+      "x": 120,
+      "y": 440,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "barNumber": 5,
+      "x": 120,
+      "y": 520,
+      "width": 300,
+      "height": 80
+    }
+  ]
+}

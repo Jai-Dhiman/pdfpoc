@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Un Sospiro",
+    "composer": "Franz Liszt",
+    "performer": "Valentina Lisitsa",
+    "youtubeId": "zJoqlNFAccs",
+    "midiFilePath": "assets/data/midi/unsospiro.mid"
+  },
+  {
+    "id": "2",
+    "title": "Moonlight Sonata - 3rd Movement",
+    "composer": "Ludwig van Beethoven",
+    "performer": "Valentina Lisitsa",
+    "youtubeId": "BV7RkEL6oRc",
+    "midiFilePath": "assets/data/midi/moonlight_sonata_3rd.mid"
+  },
+  {
+    "id": "3",
+    "title": "Nocturne Op. 9 No. 2",
+    "composer": "Frédéric Chopin",
+    "performer": "Arthur Rubinstein",
+    "youtubeId": "9E6b3swbnWg",
+    "midiFilePath": "assets/data/midi/nocturne_op9_no2.mid"
+  },
+  {
+    "id": "4",
+    "title": "Clair de Lune",
+    "composer": "Claude Debussy",
+    "performer": "Seong-Jin Cho",
+    "youtubeId": "CvFH_6DNRCY",
+    "midiFilePath": "assets/data/midi/clair_de_lune.mid"
+  },
+  {
+    "id": "5",
+    "title": "La Campanella",
+    "composer": "Franz Liszt",
+    "performer": "Yuja Wang",
+    "youtubeId": "H1Dvg2MxQn8",
+    "midiFilePath": "assets/data/midi/la_campanella.mid"
+  },
+  {
+    "id": "6",
+    "title": "Fantaisie-Impromptu",
+    "composer": "Frédéric Chopin",
+    "performer": "Yundi Li",
+    "youtubeId": "tvm2ZsRv3C8",
+    "midiFilePath": "assets/data/midi/fantaisie_impromptu.mid"
+  },
+  {
+    "id": "7",
+    "title": "Hungarian Rhapsody No. 2",
+    "composer": "Franz Liszt",
+    "performer": "Lang Lang",
+    "youtubeId": "GouU2WOWu8k",
+    "midiFilePath": "assets/data/midi/hungarian_rhapsody_2.mid"
+  },
+  {
+    "id": "8",
+    "title": "Prelude in C Sharp Minor Op. 3 No. 2",
+    "composer": "Sergei Rachmaninoff",
+    "performer": "Sergei Rachmaninoff",
+    "youtubeId": "wXQCPAR0EHo",
+    "midiFilePath": "assets/data/midi/prelude_csharp_minor.mid"
+  }
+]

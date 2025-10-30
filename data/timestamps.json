@@ -1,0 +1,25 @@
+{
+  "videoId": "H1Dvg2MxQn8",
+  "barTimestamps": [
+    {
+      "barNumber": 1,
+      "timestamp": 0.5
+    },
+    {
+      "barNumber": 2,
+      "timestamp": 3.2
+    },
+    {
+      "barNumber": 3,
+      "timestamp": 6.5
+    },
+    {
+      "barNumber": 4,
+      "timestamp": 9.8
+    },
+    {
+      "barNumber": 5,
+      "timestamp": 13.0
+    }
+  ]
+}
